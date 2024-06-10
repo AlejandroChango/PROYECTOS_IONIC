@@ -1,13 +1,6 @@
-# App para subir archivos con Storage
+# Cargar archivos en storage en Firebase
 
-Aplicación móvil para subir archivos con Firebase Storage
- 
-- APK: Descarga la [.apk](src/assets/app-debug.apk)
-
-- Web: [App para subir archivos](https://a-fa60d.web.app/home)
-
-
-## Cómo correr el proyecto
+## Instalacion 
 
 Instala ionic
 
@@ -15,18 +8,13 @@ Instala ionic
   npm i -g @ionic/cli 
 ```
 
-
 Clonar el repositorio
 
 ```bash
-  https://github.com/brittanypallasco2003/Portafolio_ionic.git
+https://github.com/AlejandroChango/PROYECTOS_IONIC.git
 ```
 
-Ir al directorio de este proyecto
-
-```bash
-  cd ArchivosFirebase
-```
+Ir a la carpeta del proyecto
 
 Instala las dependencias
 
@@ -40,15 +28,14 @@ Inicia el servidor
   ionic serve
 ```
 
-## Capturas del funcionamiento
+## Capturas de pantalla
+![image](https://github.com/AlejandroChango/PROYECTOS_IONIC/assets/23177104/77dcf82d-1ab4-479c-b00f-2b2fdbec976e)
+Carga de una imagen
+![image](https://github.com/AlejandroChango/PROYECTOS_IONIC/assets/23177104/dcd030d4-047f-449b-a5a7-a282e9603cf1)
 
-### Screens
-![imagenApp](https://github.com/brittanypallasco2003/Portafolio_ionic/assets/117743650/c1e51324-4175-4e3c-b54f-161933fb80bf)
-![imgApp](https://github.com/brittanypallasco2003/Portafolio_ionic/assets/117743650/10b6639b-4ffc-4d3b-9bd2-2361cfa14c52)
+### verificacion en el estorage de firebase 
+![image](https://github.com/AlejandroChango/PROYECTOS_IONIC/assets/23177104/e7be943f-d672-48a6-9ba5-258531431c0b)
 
-
-### Firebase Storage
-![image](https://github.com/brittanypallasco2003/Portafolio_ionic/assets/117743650/c30a7897-2aca-4d86-9659-646afae92003)
 
 
 
