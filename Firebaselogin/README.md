@@ -30,10 +30,15 @@ Esto abrirá la aplicación en tu navegador predeterminado.
 ## Capturas del funcionamiento
 
 ### Pantalla Login
+![image](https://github.com/AlejandroChango/PROYECTOS_IONIC/assets/23177104/0e74efb3-884d-4b84-bb47-242a7d021bf6)
 
 ### Pantalla Registro
 
+![image](https://github.com/AlejandroChango/PROYECTOS_IONIC/assets/23177104/8cc3bf47-6ba8-4434-b92b-4f655048330d)
 
 
 ### Inicio de sesión
+Se coloco la hoja de vida
+
+![image](https://github.com/AlejandroChango/PROYECTOS_IONIC/assets/23177104/d891ed42-1077-45be-9766-f0f8a78cc8fe)
 
