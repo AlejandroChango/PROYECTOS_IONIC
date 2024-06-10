@@ -17,6 +17,10 @@ Navega hasta la carpeta del proyecto y ejecuta el siguiente comando para instala
 ```bash
 npm install
 ```
+Agregar el siguiente comando en el archivo tsconfig.json
+```bash
+ "skipLibCheck": true
+```
 ## Configurar Firebase:
 Crea un proyecto en Firebase Console y sigue las instrucciones para agregar tu aplicación. Luego, copia las credenciales de configuración de Firebase (apiKey, authDomain, etc.) y pégalo en el archivo de configuración de Firebase del proyecto.
 
