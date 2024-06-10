@@ -1,6 +1,6 @@
-# Aplicación de hoja de vida (CV)
+# Aplicación de hoja de vida 
 
-Aplicación de hoja de vida (CV)
+Aplicación de hoja de vida 
  
 ## Instalacion 
 
