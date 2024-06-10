@@ -32,8 +32,12 @@ Iniciar la aplicación: Una vez configurado, inicia la aplicación con el siguie
 Esto abrirá la aplicación en tu navegador predeterminado.
 
 ## Capturas del funcionamiento
+Login
+![image](https://github.com/AlejandroChango/PROYECTOS_IONIC/assets/23177104/68b51b17-8857-4ac5-9f10-e47459422bdf)
 
-### Pantalla Login
+
+### Pantalla de Autenticacion en Firebase 
+
 ![image](https://github.com/AlejandroChango/PROYECTOS_IONIC/assets/23177104/0e74efb3-884d-4b84-bb47-242a7d021bf6)
 
 ### Pantalla Registro
