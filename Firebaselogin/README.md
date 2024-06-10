@@ -32,6 +32,11 @@ Iniciar la aplicación: Una vez configurado, inicia la aplicación con el siguie
 Esto abrirá la aplicación en tu navegador predeterminado.
 
 ## Capturas del funcionamiento
+
+Splash screen 
+
+![image](https://github.com/AlejandroChango/PROYECTOS_IONIC/assets/23177104/f5372565-70b8-4b4a-b3a7-d956fe130f85)
+
 Login
 ![image](https://github.com/AlejandroChango/PROYECTOS_IONIC/assets/23177104/68b51b17-8857-4ac5-9f10-e47459422bdf)
 
